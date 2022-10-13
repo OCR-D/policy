@@ -1,35 +1,30 @@
-# Inhaltsverzeichnis
-
+---
+tags: OCR-D-Recommendation, OCR, Guidelines
+title: OCR-D Empfehlungen Volltextdigitalisierung
+---
 - [Volltextdigitalisierung](#volltextdigitalisierung)
-  * [Technische Parameter der digitalen Reproduktion](#technische-parameter-der-digitalen-reproduktion)
-    + [Allgemeine Erläuterungen und Parameter](#allgemeine-erl-uterungen-und-parameter)
+  - [Technische Parameter der digitalen Reproduktion](#technische-parameter-der-digitalen-reproduktion)
+    - [Allgemeine Erläuterungen und Parameter](#allgemeine-erläuterungen-und-parameter)
       - [Textgenauigkeit](#textgenauigkeit)
       - [Textstruktur](#textstruktur)
       - [Zeichenkodierung](#zeichenkodierung)
-      - [Dateiformate (Markup von Volltexten)](#dateiformate--markup-von-volltexten-)
+      - [Dateiformate (Markup von Volltexten)](#dateiformate-markup-von-volltexten)
       - [Metadaten](#metadaten)
-        * [Erschließung, deskriptive Metadaten](#erschlie-ung--deskriptive-metadaten)
-        * [Strukturelle Metadaten](#strukturelle-metadaten)
-    + [Bereitstellung der Volltexte](#bereitstellung-der-volltexte)
-    + [Technische Verfahren der Volltexterfassung bzw. -digitalisierung](#technische-verfahren-der-volltexterfassung-bzw--digitalisierung)
-      - [Manuelle Erfassung/double keying](#manuelle-erfassung-double-keying)
-        * [Texterfassung](#texterfassung)
-        * [Strukturerfassung](#strukturerfassung)
-        * [Dateiformate (Erfassung) (MB)](#dateiformate--erfassung---mb-)
-      - [Automatische Erfassung/OCR](#automatische-erfassung-ocr)
-        * [Ground Truth](#ground-truth)
-          + [GT-Richtlinien](#gt-richtlinien)
-        * [Bildvorverarbeitung](#bildvorverarbeitung)
-        * [Texterkennung](#texterkennung)
-        * [Strukturerkennung](#strukturerkennung)
-        * [Dateiformate (Erfassung)](#dateiformate--erfassung-)
-
-
-
-
-
-
-
+        - [Erschließung, deskriptive Metadaten](#erschließung-deskriptive-metadaten)
+        - [Strukturelle Metadaten](#strukturelle-metadaten)
+    - [Bereitstellung der Volltexte](#bereitstellung-der-volltexte)
+    - [Technische Verfahren der Volltexterfassung bzw. -digitalisierung](#technische-verfahren-der-volltexterfassung-bzw--digitalisierung)
+      - [Manuelle Erfassung (double keying)](#manuelle-erfassung-double-keying)
+        - [Texterfassung](#texterfassung)
+        - [Strukturerfassung](#strukturerfassung)
+        - [Erfassungs-Dateiformate](#erfassungs-dateiformate)
+      - [Automatische Erfassung (OCR)](#automatische-erfassung-ocr)
+        - [Ground Truth](#ground-truth)
+          - [GT-Richtlinien (OCR-D-Ground-Truth-Guidelines)](#gt-richtlinien-ocr-d-ground-truth-guidelines)
+        - [Bildvorverarbeitung](#bildvorverarbeitung)
+        - [Texterkennung](#texterkennung)
+        - [Strukturerkennung](#strukturerkennung)
+        - [Erfassungs-Dateiformate](#erfassungs-dateiformate-1)
 
 
 # Volltextdigitalisierung
