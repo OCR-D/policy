@@ -1,6 +1,7 @@
 ---
 tags: OCR-D-Recommendation, OCR, Guidelines
 title: OCR-D Empfehlungen Volltextdigitalisierung
+
 ---
 - [Volltextdigitalisierung](#volltextdigitalisierung)
   - [Technische Parameter der digitalen Reproduktion](#technische-parameter-der-digitalen-reproduktion)
