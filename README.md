@@ -1,4 +1,4 @@
-<table border="0">
+<table>
 <tr><td><img src="https://user-images.githubusercontent.com/26142921/195867991-185c4239-a1bc-439a-ac80-82c205c9c5a5.png"/></td><td><h1>OCR-D Empfehlungen Volltextdigitalisierung</h1></td></tr></table
 
 
