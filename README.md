@@ -1,4 +1,6 @@
-# ![image](https://user-images.githubusercontent.com/26142921/195867991-185c4239-a1bc-439a-ac80-82c205c9c5a5.png) OCR-D Empfehlungen Volltextdigitalisierung
+<table border="0">
+<tr><td><img src="https://user-images.githubusercontent.com/26142921/195867991-185c4239-a1bc-439a-ac80-82c205c9c5a5.png"/></td><td><h1>OCR-D Empfehlungen Volltextdigitalisierung</h1></td></tr></table
+
 
 Die Planung und Realisierung einer Volltextdigitalisierung von gedruckten Materialien ist ein komplexer technischer und konzeptioneller Prozess. OCR-D arbeitet seit 2015 an technischen und konzeptionellen Lösungen zur automatischen Volltextdigitalisierung. Im Fokus stehen dabei Materialien, die in den Publikationszeiträumen vom 16. bis zum 18. Jahrhundert veröffentlicht wurden.
 
