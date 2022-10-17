@@ -17,7 +17,7 @@ Die Empfehlungen werden ergänzt durch die:
 *	Definition of Metrics for Benchmarking in OCR-D (https://pad.gwdg.de/rLDBVhmYQ8CwOd67KcYHwQ?view)
 
 ## Wie können Sie mitmachen und diskutieren?
-Nutzen Sie die Möglichkeit Issues zu verfassen. Sie finden hier einige Hilfen dazu.
+Nutzen Sie die Möglichkeit, Issues zu verfassen. Sie finden hier einige Hilfen dazu.
 
 * [Video Issues & Features (Kapitel aus openHPI-Kurs Let’s Git - Versionsverwaltung und OpenSource.](https://open.hpi.de/courses/git2020/items/3NHYTnKXdqUA7He5k8DQ6B?locale=de) (deutsch)
 * [About issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (english)
