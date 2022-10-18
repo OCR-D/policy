@@ -19,8 +19,11 @@ Die Empfehlungen werden ergänzt durch die:
 *	Definition of Metrics for Benchmarking in OCR-D (https://pad.gwdg.de/rLDBVhmYQ8CwOd67KcYHwQ?view)
 
 ## Wie können Sie mitmachen und diskutieren?
-Nutzen Sie die Möglichkeit, Issues zu verfassen. Sie finden hier einige Hilfen dazu.
+Nutzen Sie die Möglichkeiten, *Issues* oder *Pull Requests* zu verfassen. Sie finden hier einige Hilfen dazu.
 
-* [Video Issues & Features (Kapitel aus openHPI-Kurs Let’s Git - Versionsverwaltung und OpenSource.](https://open.hpi.de/courses/git2020/items/3NHYTnKXdqUA7He5k8DQ6B?locale=de) (deutsch)
+* [Video Issues & Features (Kapitel aus openHPI-Kurs Let’s Git - Versionsverwaltung und OpenSource.)](https://open.hpi.de/courses/git2020/items/3NHYTnKXdqUA7He5k8DQ6B?locale=de) (deutsch)
+* [Video Pull Requests (Kapitel aus openHPI-Kurs Let’s Git - Versionsverwaltung und OpenSource.)](https://open.hpi.de/courses/git2020/items/5BUFAVg1EwUUPYxFJo4AT6?locale=de) (deutsch)
 * [About issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) (english)
   * [Quickstart for GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) (english)
+* [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (english)
+  * [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) (english)
