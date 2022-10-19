@@ -1,7 +1,7 @@
 
 
 <table>
-<tr style="border: none;"><td style="border: none;"><img src="https://user-images.githubusercontent.com/26142921/195867991-185c4239-a1bc-439a-ac80-82c205c9c5a5.png"/></td><td style="border: none;"><h1>OCR-D Empfehlungen Volltextdigitalisierung</h1></td></tr>
+<tr style="border: none;"><td style="border: none;"><img src="https://user-images.githubusercontent.com/26142921/195867991-185c4239-a1bc-439a-ac80-82c205c9c5a5.png"/></td><td style="border: none;"><h1>OCR-D Policy Volltextdigitalisierung</h1></td></tr>
 <tr><td colspan="2"><b>orig. Autoren/Maintainer:</b> Matthias Boenig, Elisabeth Engl, Konstantin Baierer, Clemens Neudecker, Lena Hinrichsen</td></tr>
 <tr><td colspan="2"><b>E-Mail:</b> hinrichsen[at]hab.de</td></tr>
 </table
