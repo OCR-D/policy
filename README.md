@@ -14,9 +14,12 @@ Mit der Veröffentlichung der *OCR-D Empfehlungen Volltextdigitalisierung* möch
 
 Die *OCR-D Empfehlungen Volltextdigitalisierung* orientieren sich an den *DFG-Praxisregeln "Digitalisierung* (Stand 2016, https://www.dfg.de/formulare/12_151/), zitieren diese in Teilen oder Paraphrasieren diese.
 
-Die Empfehlungen werden ergänzt durch die:
-*	OCR-D-Ground-Truth-Guidelines (https://ocr-d.de/de/gt-guidelines/trans/) und
-*	Definition of Metrics for Benchmarking in OCR-D (https://pad.gwdg.de/rLDBVhmYQ8CwOd67KcYHwQ?view)
+### Zur Policy:
+* [OCR-D Policy Volltextdigitalisierung](https://github.com/OCR-D/policy/blob/main/ocr-d-recommendation.md)
+
+Die Policy wird ergänzt durch die:
+*	[OCR-D-Ground-Truth-Guidelines](https://ocr-d.de/de/gt-guidelines/trans/) und
+*	Definition of Metrics for Benchmarking in OCR-D [OCR-D/spec#225](https://github.com/OCR-D/spec/blob/c9d313f61927c6e153205ea4aa10f57e1cd2dd37/ocrd_eval.md)
 
 ## Wie können Sie mitmachen und diskutieren?
 Nutzen Sie die Möglichkeiten, *Issues* oder *Pull Requests* zu verfassen. Sie finden hier einige Hilfen dazu.
