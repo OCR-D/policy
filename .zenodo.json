@@ -1,0 +1,48 @@
+{
+    "creators": [
+        {
+            "affiliation": "Berlin-Brandenburg Academy of Sciences and Humanities",
+            "name": "Boenig, Matthias",
+            "orcid": "0000-0003-4615-4753"
+        },
+        {
+            "affiliation": "Herzog August Bibliothek: Wolfenbüttel",
+            "name": "Engl, Elisabeth",
+            "orcid": "0000-0002-4995-7976"
+        },
+        {
+            "affiliation": "Herzog August Bibliothek: Wolfenbüttel,",
+            "name": "Hinrichsen, Lena",
+            "orcid": "0000-0002-1761-0222"
+        },
+        {
+            "affiliation": "Staatsbibliothek zu Berlin",
+            "name": "Baierer, Konstantin",
+            "orcid": "0000-0003-2397-242X"
+        },
+        {
+            "affiliation": "Staatsbibliothek zu Berlin",
+            "name": "Neudecker, Clemens",
+            "orcid": "0000-0001-5293-8322"
+        }
+        
+    ],
+    "title": "OCR-D Policy Volltextdigitalisierung",
+    "description": [
+        "<p>Die Planung und Realisierung einer Volltextdigitalisierung von gedruckten Materialien ist ein komplexer technischer und konzeptioneller Prozess. Die OCR-D Policy Volltextdigitalisierung empfehlen technische und konzeptionelle Lösungen zur automatischen Volltextdigitalisierung. Im Fokus dieser automatischen Volltextdigitalisierung stehen Materialien, die in den Publikationszeiträumen vom 16. bis zum 18. Jahrhundert veröffentlicht wurden. Die OCR-D Policy Volltextdigitalisierung dienen der Nachhaltigkeit und Zukunftsfähigkeit im Rahmen der Volltextdigitalisierung.</p>"
+    ],
+    "keywords": [
+        "OCR",
+        "Policy",
+        "Recommendation",
+        "Full text digitization",
+        "OCR-D"
+    ],
+    "license": {
+        "id": "cc-by-sa-4.0"
+    },
+    "upload_type": "publication",
+    "publication_type": "standard",
+    "access_right": "open"
+    
+}
