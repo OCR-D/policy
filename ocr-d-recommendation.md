@@ -26,7 +26,7 @@
 
 
 # Volltextdigitalisierung
-Die Volldigitalisierung kann grundsätzlich durch manuelle oder automatische Methoden erfolgen. Mit beiden Methoden werden wissenschaftlich nachnutzbare Forschungsdaten erzeugt, die in unterschiedlichen Bereichen genutzt und ausgewertet werden können. 
+Die Volltextdigitalisierung kann grundsätzlich durch manuelle oder automatische Methoden erfolgen. Mit beiden Methoden werden wissenschaftlich nachnutzbare Forschungsdaten erzeugt, die in unterschiedlichen Bereichen genutzt und ausgewertet werden können.
 Welche Methode verwendet wird, ist im Einzelfall mit Blick auf die jeweiligen Anforderungen zu entscheiden. 
 Die Methoden unterscheiden sich sowohl in der Vorgehensweise als auch in weiteren Bereichen wie bspw. Format und Qualität des Ergebnisses. 
 
